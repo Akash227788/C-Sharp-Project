@@ -1,0 +1,6 @@
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Library\bin\Debug\MOAP_Library.dll
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Library\bin\Debug\MOAP_Library.pdb
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Library\obj\Debug\MOAP_Library.csproj.AssemblyReference.cache
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Library\obj\Debug\MOAP_Library.csproj.CoreCompileInputs.cache
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Library\obj\Debug\MOAP_Library.dll
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Library\obj\Debug\MOAP_Library.pdb

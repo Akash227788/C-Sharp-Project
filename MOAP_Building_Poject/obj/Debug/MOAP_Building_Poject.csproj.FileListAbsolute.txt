@@ -1,0 +1,10 @@
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\obj\Debug\MOAP_Building_Poject.csproj.AssemblyReference.cache
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\obj\Debug\MOAP_Building_Poject.csproj.CoreCompileInputs.cache
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\bin\Debug\MOAP_Building_Poject.exe.config
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\bin\Debug\MOAP_Building_Poject.exe
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\bin\Debug\MOAP_Building_Poject.pdb
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\obj\Debug\MOAP_Building_Poject.exe
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\obj\Debug\MOAP_Building_Poject.pdb
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\bin\Debug\MOAP_Library.dll
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\bin\Debug\MOAP_Library.pdb
+C:\Users\AkashJoseph\source\repos\ConsoleApp2\MOAP_Building_Poject\obj\Debug\MOAP_Bui.B7765491.Up2Date
